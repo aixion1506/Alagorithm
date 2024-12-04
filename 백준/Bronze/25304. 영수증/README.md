@@ -1,3 +1,6 @@
+# 두번째 문제가 밀려서 두번째 문제를 오늘 풀고 출첵을 위해서 일단 출첵만 해뒀습니다... 내일 다시 풀어두겠습니다...
+## https://github.com/aixion1506/Alagorithm-Solving
+
 # [Bronze IV] 영수증 - 25304 
 
 [문제 링크](https://www.acmicpc.net/problem/25304) 
