@@ -8,8 +8,7 @@ public class Main {
         int a = sc.nextInt();
         int b = sc.nextInt();
 
-        System.out.print(a < b ? 1 : 0);
-        System.out.printf("\t");
-        System.out.print(a == b ? 1 : 0);
+        System.out.print((a < b ? 1 : 0)+ " " +(a == b ? 1: 0));
+
     }
 }
